@@ -1,0 +1,78 @@
+[
+  {
+    "question": "Meri aankhon ka favourite part tumhe kya lagta hai? 👀",
+    "options": ["Innocence", "Shaitani", "Sleepy eyes", "Sparkle"],
+    "answer": "Shaitani"
+  },
+  {
+    "question": "Mera go-to morning line tumhare liye kya hota hai?",
+    "options": ["Good morning, sunshine!", "Chal uth ja, warna late ho jayegi 😛", "Aaj chhutti le lete hain?", "Coffee peete hain?"],
+    "answer": "Chal uth ja, warna late ho jayegi 😛"
+  },
+  {
+    "question": "Mujhe tumhare baare me sabse zyada kya pasand hai?",
+    "options": ["Tumhari smile", "Tumhari aankhen", "Tumhara caring nature", "Everything ❤️"],
+    "answer": "Everything ❤️"
+  },
+  {
+    "question": "Hamari perfect date kaunsi hoti?",
+    "options": ["Long walk + ice cream", "Movie + popcorn", "Rain + chai", "Ghar par cozy dinner"],
+    "answer": "Ghar par cozy dinner"
+  },
+  {
+    "question": "Main public me haath pakadne me thoda shy kyun hota hu?",
+    "options": ["Habit nahi hai", "Thoda introvert hu", "Crowd pasand nahi", "Mazaak me bhaagta hu"],
+    "answer": "Thoda introvert hu"
+  },
+  {
+    "question": "Hamari sabse cute inside joke kya hai?",
+    "options": ["Mini princess 👑", "Foodie duo", "Coding & Chai", "Late-lateef club"],
+    "answer": "Mini princess 👑"
+  },
+   {
+    "question": "Hamari sabse khoobsurat memory abhi tak kaunsi hai? 💕",
+    "options": ["First date", "Birthday surprise", "Long drive", "Ghar pe masti"],
+    "answer": "Ghar pe masti"
+  },
+  {
+    "question": "Agar hum weekend trip pe ja rahe ho, toh sabse pehle kya kareinge?",
+    "options": ["Playlist on 🔊", "Photos click 📸", "Street food hunt 🌮", "Bas ek dusre ko dekhte rahenge 😍"],
+    "answer": "Bas ek dusre ko dekhte rahenge 😍"
+  },
+  {
+    "question": "Agar tum late ho jao toh mai sabse pehle kya bolta hu? 😅",
+    "options": ["Chal jaldi aa!", "Main wait kar lunga", "Arre abhi tak nahi aayi?", "Mai bhi late aata hu"],
+    "answer": "Arre abhi tak nahi aayi?"
+  },
+  {
+    "question": "Kaun zyada late aata hai? 😅",
+    "options": ["Main", "Tum", "Dono hi", "Kabhi kabhi"],
+    "answer": "Tum"
+  },
+  {
+    "question": "Anniversary par main tumhe kya promise karta hu?",
+    "options": ["Hamesha sath dena", "Roz hasana", "Kabhi akela feel na hona dena", "Sab kuch"],
+    "answer": "Sab kuch"
+  },
+  {
+    "question": "Tumhari height ke baare me main kya kehta hu?",
+    "options": ["Short & Sweet", "Pocket full of sunshine", "Mini princess", "Sab sahi hai"],
+    "answer": "Mini princess"
+  },
+
+  {
+    "question": "Mujhe tumhe kis naam se bulana sabse zyada pasand hai? 🥰",
+    "options": ["Harshu", "Baby", "Pagal", "Shona"],
+    "answer": "Pagal"
+  },
+  {
+    "question": "Hamari love story ka one-word vibe?",
+    "options": ["Peace", "Magic", "Adventure", "Forever"],
+    "answer": "Forever"
+  },
+  {
+    "question": "Kya tum mujhe hamesha love karogi? ❤️",
+    "options": ["Yes", "Yes", "Yes", "Of course"],
+    "answer": "Yes"
+  }
+]
